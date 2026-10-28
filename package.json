@@ -1,0 +1,8 @@
+{
+  "name": "trainer-os",
+  "version": "5.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Clients, session packages and payments for personal trainers — iPhone PWA with cloud sync on Vercel.",
+  "engines": { "node": ">=18" }
+}
